@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About me"
 ---
 
 About this site
 
-```{r}
-1 + 1
-```
+Hi, my name is Candace! 

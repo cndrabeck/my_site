@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs 
+  output-dir: docs
 
 website:
   title: "my_site"
@@ -12,9 +12,7 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cyborg
     css: styles.css
     toc: true
 
